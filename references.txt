@@ -1,0 +1,10 @@
+Resources used in project:
+- https://www.openstreetmap.org/export#map=15/51.1286/-0.1751
+- http://overpass-api.de/api/map?bbox=-0.2074,51.1166,-0.1428,51.1405
+- https://docs.python.org/3.4/library/xml.etree.elementtree.html 
+- https://docs.mongodb.com/manual/reference/
+- https://developers.google.com/places/web-service/intro
+- https://wiki.openstreetmap.org/wiki/API_v0.6
+- https://developers.google.com/places/web-service/search
+- https://developers.google.com/places/web-service/usage
+- https://www.google.co.uk/maps/place/Tesla+Store+%26+Service+Centre+Gatwick/@51.1357014,-0.1915077,14.6z/data=!4m5!3m4!1s0x0:0x34b686a0f2f7643c!8m2!3d51.1352312!4d-0.1908615
